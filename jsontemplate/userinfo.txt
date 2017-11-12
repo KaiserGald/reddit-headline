@@ -1,0 +1,6 @@
+{
+  "usrName" : "",
+  "usrPassword" : "",
+  "appId" : "",
+  "appSecret" : ""
+}
